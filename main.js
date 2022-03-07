@@ -1,4 +1,4 @@
-const input = 'Please rescue me from Seaworld!';
+const input = 'Please rescue me from SeaWorld!';
 
 let whaleTalk = str => {
   const vowels = ['a', 'e', 'i', 'o', 'u'];
